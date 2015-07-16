@@ -1,0 +1,8 @@
+name: devdataprod-project
+account: scheuchzer
+server: shinyapps.io
+bundleId: 220761
+url: https://scheuchzer.shinyapps.io/devdataprod-project
+when: 1437045841.72722
+asMultiple: FALSE
+asStatic: FALSE
